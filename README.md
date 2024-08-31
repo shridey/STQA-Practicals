@@ -8,7 +8,7 @@ This repository aims to serve as a guide for Software Testing & Quality Assuranc
 
 - [IntelliJ Idea IDE (Community)](https://download.jetbrains.com/idea/ideaIC-2024.1.4.exe) (Required for all the practicals)
 
-- [Selenium Server JAR](https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.22.0/selenium-server-4.22.0.jar) (Required for practicals 1, 2, 3, 4, 7, and 8)
+- [Selenium Server JAR](https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.24.0/selenium-server-4.24.0.jar) (Required for practicals 1, 2, 3, 4, 7, and 8)
 
 - [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) (Required for practicals 1, 2, 3, and 4)
 
