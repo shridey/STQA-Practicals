@@ -24,5 +24,5 @@ Video link soon.
 
 ## Authors
 
-- [@iamshridharr](https://www.github.com/IAmShridharr)
+- [Shridhar Pandey](https://www.github.com/shridey)
 
